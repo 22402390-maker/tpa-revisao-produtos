@@ -2,7 +2,9 @@
 
 **Versão:** REV-ATIV · treino no formato da prova final (vale como exercício, não como nota da prova)
 
-**Repositório da atividade:** https://github.com/nato-re/tpa-revisao-produtos
+**Repositório da entrega:** https://github.com/22402390-maker/tpa-revisao-produtos
+
+**Repositório original da atividade:** https://github.com/nato-re/tpa-revisao-produtos
 
 **Resolvido por:** Rafael Vieira — requisitos R1 a R8 e bônus (estoque) implementados.
 
